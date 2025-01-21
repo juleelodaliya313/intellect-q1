@@ -1,0 +1,14 @@
+/* EmojiScale.css */
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.emoji-option {
+  width: 16%;
+}
+
+@media (max-width: 768px) {
+  .emoji-option {
+    width: 50%;
+  }
+}
